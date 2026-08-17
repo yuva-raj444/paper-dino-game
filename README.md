@@ -1,3 +1,2 @@
 ﻿# paper-dino-game
 Developing.....
-![Project Screenshot](demo.png)
