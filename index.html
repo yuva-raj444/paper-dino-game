@@ -334,7 +334,7 @@
                 }
 
                 // Dino Leg Animation
-                if (!isJumping) dino.material.map = (Math.floor(score * 2.5) % 2 === 0) ? texDino1 : texDino2;
+                if (!isJumping) dino.material.map = (Math.floor(score * 1.0) % 2 === 0) ? texDino1 : texDino2;
 
                 // Move Floor Texture
                 texGround.offset.x += (gameSpeed * 0.05) * delta;
